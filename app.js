@@ -7,7 +7,7 @@ const app = express();
 const port = process.env.port || 3000;
 const fs = require('fs').promises;
 
-const connection_string = 'mongodb+srv://Shrinidhi:Shri@crud.8vx9pff.mongodb.net/users';
+const connection_string = 'mongodb+srv://faraz99:Real99@cluster0.7oca3ki.mongodb.net/users';
 const database_name = 'users';
 const collection_name = 'agents';
 
